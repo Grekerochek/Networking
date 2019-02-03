@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Networking</string>
+    <string name="weather">Погода в Москве</string>
+    <string name="data">Дата и время:</string>
+</resources>
